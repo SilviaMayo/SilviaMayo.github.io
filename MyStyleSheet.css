@@ -2,6 +2,31 @@
 body {
     font-family: 'Rubik', sans-serif;
 }
+div {
+    background-color: maroon;
+}
+.navbar ul {
+    list-style: none;
+    width: 500px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: darkgrey;
+    text-align: center;
+}
+
+.navbar li {
+    width: 150 px;
+    background-color: #000;
+    border: 1px solid black;
+    padding: 10px;
+    display: inline-block;
+    line-height: 40px;
+}
+
+.navbar a {
+    color:black;
+    text-decoration: none;
+}
 iframe {
     width:100%;
     height:100%;

@@ -17,7 +17,7 @@ div {
 .navbar li {
     width: 150 px;
     background-color: darkgrey;
-    border: 1px solid black;
+    border: 1px solid darkgrey;
     padding: 10px;
     display: inline-block;
     line-height: 40px;

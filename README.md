@@ -1,6 +1,7 @@
 # SilviaMayo.github.io
 
 Silvia Mayo (smayo@wesleyan.edu)
+https://silviamayo.github.io/MSRLandingPage.html
 
 ## Files
 
